@@ -46,6 +46,7 @@ $quantity = 0;
     <title>Document</title>
 </head>
 <body>
+    <h1>Ezvet - PHP test - <a href="https://github.com/charles-benedito/ezyVet-test-php" target="_NEW">Github</a></h1>
     <h2>My Cart</h2>
     <? if(count($cartItems)) { ?>
             <ul>
